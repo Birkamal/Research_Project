@@ -10,7 +10,7 @@ This project is done in a team of 5 students under the supervision of Tanaby Zib
 3. Trained the model using **[XGBoost](https://github.com/Birkamal/Research_Project/blob/master/main_file/mlpipeline/xgb_class.py), [Catboost](https://github.com/Birkamal/Research_Project/blob/master/main_file/mlpipeline/catboost_class.py)** and **[LightGBM](https://github.com/Birkamal/Research_Project/blob/master/main_file/mlpipeline/lgbmclass.py)** boosting methods
 4. Performed **Integration and [Unit Testing](https://github.com/Birkamal/Research_Project/tree/master/Tests)** using **Pytest** tool of Python
 5. Deployed the models on **Google Cloud Platform (GCP)**
-6. To check the performance of the models used **Statistical Significance Tests**
+6. To check the performance of the models used **[Statistical Significance Tests](https://github.com/Birkamal/statistical_analysis/blob/master/project_analysis.ipynb)**
 7. Comparison of different fitted models and optimization methods against each other and AutoML of GCP
 8. Comparison of the results with previous papers
 
