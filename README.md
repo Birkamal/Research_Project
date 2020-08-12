@@ -7,7 +7,7 @@ This project is done in a team of 5 students under the supervision of Tanaby Zib
 
 1. Created **Pre-Processing Module** to clean the data and **Feature Engineering Module** to create new features using a Python framework Featuretools
 2. Used **Hyperopt, Optuna** and **Random Search** for hyper-parameter tuning
-3. Trained the model using **XGBoost(https://github.com/Birkamal/Research_Project/blob/master/main_file/mlpipeline/xgb_class.py), Catboost** and **LightGBM** boosting methods
+3. Trained the model using **[XGBoost](https://github.com/Birkamal/Research_Project/blob/master/main_file/mlpipeline/xgb_class.py), Catboost** and **LightGBM** boosting methods
 4. Performed **Integration and Unit Testing** using **Pytest** tool of Python
 5. Deployed the models on **Google Cloud Platform (GCP)**
 6. To check the performance of the models used **Statistical Significance Tests**
