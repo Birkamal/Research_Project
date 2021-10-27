@@ -11,4 +11,4 @@ xgboost==0.82
 scikit_learn==0.22.2.post1
 featuretools==0.13.4
 dask_ml==1.2.0
-dask==2.15.0
+dask==2021.10.0
